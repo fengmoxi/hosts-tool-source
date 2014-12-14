@@ -6,11 +6,11 @@
   </UID-1>
   <UID-2>
     <domain>onedrive.live.com</domain>
-    <ip>134.170.104.90</ip>
+    <ip>134.170.108.26</ip>
   </UID-2>
   <UID-3>
     <domain>onedrive.live.com</domain>
-    <ip>134.170.108.26</ip>
+    <ip>134.170.107.26</ip>
   </UID-3>
   <UID-4>
     <domain>onedrive.live.com</domain>
@@ -18,26 +18,42 @@
   </UID-4>
   <UID-5>
     <domain>onedrive.live.com</domain>
-    <ip>134.170.107.26</ip>
+    <ip>95.100.168.130</ip>
   </UID-5>
   <UID-6>
     <domain>skyapi.onedrive.live.com</domain>
-    <ip>134.170.108.24</ip>
+    <ip>134.170.104.176</ip>
   </UID-6>
   <UID-7>
     <domain>skyapi.onedrive.live.com</domain>
-    <ip>134.170.108.72</ip>
+    <ip>134.170.104.240</ip>
   </UID-7>
   <UID-8>
     <domain>skyapi.onedrive.live.com</domain>
-    <ip>134.170.104.232</ip>
+    <ip>134.170.111.176</ip>
   </UID-8>
   <UID-9>
     <domain>skyapi.onedrive.live.com</domain>
-    <ip>134.170.108.224</ip>
+    <ip>134.170.109.224</ip>
   </UID-9>
   <UID-10>
     <domain>skyapi.onedrive.live.com</domain>
-    <ip>95.100.168.130</ip>
+    <ip>134.170.109.176</ip>
   </UID-10>
+  <UID-11>
+    <domain>skyapi.onedrive.live.com</domain>
+    <ip>134.170.104.168</ip>
+  </UID-11>
+  <UID-12>
+    <domain>skyapi.onedrive.live.com</domain>
+    <ip>134.170.104.160</ip>
+  </UID-12>
+  <UID-13>
+    <domain>skyapi.onedrive.live.com</domain>
+    <ip>134.170.104.224</ip>
+  </UID-13>
+  <UID-14>
+    <domain>skyapi.onedrive.live.com</domain>
+    <ip>134.170.111.152</ip>
+  </UID-14>
 </Onedrive>

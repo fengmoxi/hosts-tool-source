@@ -2,486 +2,534 @@
 <WordPress>
   <UID-1>
     <domain>i.polldaddy.com</domain>
-    <ip>192.0.74.5</ip>
+    <ip>93.184.220.20</ip>
   </UID-1>
   <UID-2>
     <domain>i.polldaddy.com</domain>
-    <ip>198.181.116.5</ip>
+    <ip>198.181.118.5</ip>
   </UID-2>
   <UID-3>
     <domain>i.polldaddy.com</domain>
-    <ip>198.181.118.5</ip>
+    <ip>72.21.91.8</ip>
   </UID-3>
   <UID-4>
     <domain>i.polldaddy.com</domain>
-    <ip>192.26.92.30</ip>
+    <ip>192.54.112.30</ip>
   </UID-4>
   <UID-5>
     <domain>i.polldaddy.com</domain>
-    <ip>192.33.14.30</ip>
+    <ip>198.181.116.5</ip>
   </UID-5>
   <UID-6>
     <domain>i0.poll.fm</domain>
-    <ip>192.0.74.5</ip>
+    <ip>93.184.220.20</ip>
   </UID-6>
   <UID-7>
     <domain>i0.poll.fm</domain>
-    <ip>198.181.116.5</ip>
+    <ip>198.181.118.5</ip>
   </UID-7>
   <UID-8>
     <domain>i0.poll.fm</domain>
-    <ip>198.181.118.5</ip>
+    <ip>72.21.91.8</ip>
   </UID-8>
   <UID-9>
-    <domain>wordpress.com</domain>
-    <ip>192.0.78.17</ip>
+    <domain>i0.poll.fm</domain>
+    <ip>198.41.0.4</ip>
   </UID-9>
   <UID-10>
-    <domain>wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>i0.poll.fm</domain>
+    <ip>204.74.112.1</ip>
   </UID-10>
   <UID-11>
     <domain>wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <ip>192.0.78.9</ip>
   </UID-11>
   <UID-12>
-    <domain>s0.wp.com</domain>
-    <ip>72.21.80.6</ip>
+    <domain>wordpress.com</domain>
+    <ip>192.0.78.17</ip>
   </UID-12>
   <UID-13>
-    <domain>s0.wp.com</domain>
-    <ip>72.21.80.5</ip>
+    <domain>wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-13>
   <UID-14>
     <domain>s0.wp.com</domain>
-    <ip>68.232.44.111</ip>
+    <ip>72.21.91.111</ip>
   </UID-14>
   <UID-15>
-    <domain>s1.wp.com</domain>
-    <ip>192.26.92.30</ip>
+    <domain>s0.wp.com</domain>
+    <ip>68.232.44.111</ip>
   </UID-15>
   <UID-16>
-    <domain>s1.wp.com</domain>
-    <ip>72.21.80.6</ip>
+    <domain>s0.wp.com</domain>
+    <ip>93.184.220.111</ip>
   </UID-16>
   <UID-17>
-    <domain>s1.wp.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>s0.wp.com</domain>
+    <ip>198.181.118.5</ip>
   </UID-17>
   <UID-18>
-    <domain>s1.wp.com</domain>
-    <ip>192.48.79.30</ip>
+    <domain>s0.wp.com</domain>
+    <ip>72.21.80.6</ip>
   </UID-18>
   <UID-19>
     <domain>s1.wp.com</domain>
-    <ip>46.82.174.68</ip>
+    <ip>72.21.91.111</ip>
   </UID-19>
   <UID-20>
-    <domain>s2.wp.com</domain>
-    <ip>72.21.91.111</ip>
+    <domain>s1.wp.com</domain>
+    <ip>68.232.44.111</ip>
   </UID-20>
   <UID-21>
-    <domain>s2.wp.com</domain>
-    <ip>72.21.80.6</ip>
+    <domain>s1.wp.com</domain>
+    <ip>93.184.220.111</ip>
   </UID-21>
   <UID-22>
-    <domain>s2.wp.com</domain>
-    <ip>72.21.80.5</ip>
+    <domain>s1.wp.com</domain>
+    <ip>198.181.118.5</ip>
   </UID-22>
   <UID-23>
-    <domain>s.wordpress.org</domain>
-    <ip>66.155.9.169</ip>
+    <domain>s1.wp.com</domain>
+    <ip>72.21.80.6</ip>
   </UID-23>
   <UID-24>
-    <domain>s.wordpress.org</domain>
-    <ip>66.155.40.24</ip>
+    <domain>s2.wp.com</domain>
+    <ip>72.21.91.111</ip>
   </UID-24>
   <UID-25>
-    <domain>s.wordpress.org</domain>
-    <ip>72.21.80.6</ip>
+    <domain>s2.wp.com</domain>
+    <ip>68.232.44.111</ip>
   </UID-25>
   <UID-26>
-    <domain>s.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s2.wp.com</domain>
+    <ip>93.184.220.111</ip>
   </UID-26>
   <UID-27>
-    <domain>s.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s2.wp.com</domain>
+    <ip>198.181.118.5</ip>
   </UID-27>
   <UID-28>
-    <domain>s.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s2.wp.com</domain>
+    <ip>72.21.80.6</ip>
   </UID-28>
   <UID-29>
-    <domain>s.wordpress.com</domain>
-    <ip>72.21.80.5</ip>
+    <domain>s.wordpress.org</domain>
+    <ip>93.184.220.20</ip>
   </UID-29>
   <UID-30>
-    <domain>s.wordpress.com</domain>
-    <ip>207.198.112.47</ip>
+    <domain>s.wordpress.org</domain>
+    <ip>72.21.91.8</ip>
   </UID-30>
   <UID-31>
-    <domain>s1.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s.wordpress.org</domain>
+    <ip>72.21.80.6</ip>
   </UID-31>
   <UID-32>
-    <domain>s1.wordpress.com</domain>
-    <ip>72.21.91.8</ip>
+    <domain>s.wordpress.com</domain>
+    <ip>93.184.220.20</ip>
   </UID-32>
   <UID-33>
-    <domain>s1.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s.wordpress.com</domain>
+    <ip>72.21.91.8</ip>
   </UID-33>
   <UID-34>
-    <domain>s1.wordpress.com</domain>
+    <domain>s.wordpress.com</domain>
     <ip>69.174.248.149</ip>
   </UID-34>
   <UID-35>
-    <domain>s1.wordpress.com</domain>
+    <domain>s.wordpress.com</domain>
     <ip>72.21.80.5</ip>
   </UID-35>
   <UID-36>
-    <domain>s2.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-36>
   <UID-37>
-    <domain>s2.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s1.wordpress.com</domain>
+    <ip>93.184.220.20</ip>
   </UID-37>
   <UID-38>
-    <domain>s2.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s1.wordpress.com</domain>
+    <ip>72.21.91.8</ip>
   </UID-38>
   <UID-39>
-    <domain>s3.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s1.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-39>
   <UID-40>
-    <domain>s3.wordpress.com</domain>
-    <ip>72.21.91.8</ip>
+    <domain>s1.wordpress.com</domain>
+    <ip>72.21.80.5</ip>
   </UID-40>
   <UID-41>
-    <domain>s3.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s1.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-41>
   <UID-42>
-    <domain>s3.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s2.wordpress.com</domain>
+    <ip>93.184.220.20</ip>
   </UID-42>
   <UID-43>
-    <domain>s3.wordpress.com</domain>
-    <ip>72.21.80.5</ip>
+    <domain>s2.wordpress.com</domain>
+    <ip>72.21.91.8</ip>
   </UID-43>
   <UID-44>
-    <domain>s.stats.wordpress.com</domain>
-    <ip>72.21.91.8</ip>
+    <domain>s2.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-44>
   <UID-45>
-    <domain>s.stats.wordpress.com</domain>
-    <ip>72.21.80.6</ip>
+    <domain>s2.wordpress.com</domain>
+    <ip>72.21.80.5</ip>
   </UID-45>
   <UID-46>
-    <domain>s.stats.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s2.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-46>
   <UID-47>
-    <domain>store.files.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s3.wordpress.com</domain>
+    <ip>93.184.220.20</ip>
   </UID-47>
   <UID-48>
-    <domain>store.files.wordpress.com</domain>
-    <ip>198.181.117.7</ip>
+    <domain>s3.wordpress.com</domain>
+    <ip>72.21.91.8</ip>
   </UID-48>
   <UID-49>
-    <domain>store.files.wordpress.com</domain>
-    <ip>192.0.72.2</ip>
+    <domain>s3.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-49>
   <UID-50>
-    <domain>store.files.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s3.wordpress.com</domain>
+    <ip>72.21.80.5</ip>
   </UID-50>
   <UID-51>
-    <domain>store.files.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s3.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-51>
   <UID-52>
-    <domain>store.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>s.stats.wordpress.com</domain>
+    <ip>93.184.220.20</ip>
   </UID-52>
   <UID-53>
-    <domain>store.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>s.stats.wordpress.com</domain>
+    <ip>72.21.91.8</ip>
   </UID-53>
   <UID-54>
-    <domain>store.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>s.stats.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-54>
   <UID-55>
-    <domain>store.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>s.stats.wordpress.com</domain>
+    <ip>72.21.80.5</ip>
   </UID-55>
   <UID-56>
-    <domain>store.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>s.stats.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-56>
   <UID-57>
-    <domain>lb.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>store.files.wordpress.com</domain>
+    <ip>192.0.72.3</ip>
   </UID-57>
   <UID-58>
-    <domain>lb.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>store.files.wordpress.com</domain>
+    <ip>192.0.74.7</ip>
   </UID-58>
   <UID-59>
-    <domain>lb.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>store.files.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-59>
   <UID-60>
-    <domain>lb.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>store.files.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-60>
   <UID-61>
-    <domain>lb.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>store.files.wordpress.com</domain>
+    <ip>198.181.117.7</ip>
   </UID-61>
   <UID-62>
-    <domain>zh.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>store.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-62>
   <UID-63>
-    <domain>zh.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>store.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-63>
   <UID-64>
-    <domain>zh.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>store.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-64>
   <UID-65>
-    <domain>zh.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>store.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-65>
   <UID-66>
-    <domain>zh.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>store.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-66>
   <UID-67>
-    <domain>zh-sg.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>lb.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-67>
   <UID-68>
-    <domain>zh-sg.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>lb.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-68>
   <UID-69>
-    <domain>zh-sg.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>lb.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-69>
   <UID-70>
-    <domain>dashboard.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>zh.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-70>
   <UID-71>
-    <domain>dashboard.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>zh.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-71>
   <UID-72>
-    <domain>dashboard.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>zh.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-72>
   <UID-73>
-    <domain>forums.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>zh.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-73>
   <UID-74>
-    <domain>forums.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>zh.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-74>
   <UID-75>
-    <domain>forums.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>zh-sg.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-75>
   <UID-76>
-    <domain>forums.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>zh-sg.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-76>
   <UID-77>
-    <domain>forums.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>zh-sg.wordpress.com</domain>
+    <ip>220.250.64.20</ip>
   </UID-77>
   <UID-78>
-    <domain>en.forums.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>dashboard.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-78>
   <UID-79>
-    <domain>en.forums.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>dashboard.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-79>
   <UID-80>
-    <domain>en.forums.wordpress.com</domain>
+    <domain>dashboard.wordpress.com</domain>
     <ip>69.174.248.149</ip>
   </UID-80>
   <UID-81>
-    <domain>en.blog.wordpress.com</domain>
-    <ip>66.155.8.198</ip>
+    <domain>forums.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-81>
   <UID-82>
-    <domain>en.blog.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>forums.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-82>
   <UID-83>
-    <domain>en.blog.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>forums.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-83>
   <UID-84>
-    <domain>en.blog.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>forums.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-84>
   <UID-85>
-    <domain>en.blog.wordpress.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>forums.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-85>
   <UID-86>
-    <domain>stats.wordpress.com</domain>
-    <ip>192.0.76.2</ip>
+    <domain>en.forums.wordpress.com</domain>
+    <ip>76.74.254.120</ip>
   </UID-86>
   <UID-87>
-    <domain>stats.wordpress.com</domain>
-    <ip>192.26.92.30</ip>
+    <domain>en.forums.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-87>
   <UID-88>
-    <domain>stats.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>en.forums.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-88>
   <UID-89>
-    <domain>stats.wordpress.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>en.blog.wordpress.com</domain>
+    <ip>66.155.8.198</ip>
   </UID-89>
   <UID-90>
-    <domain>stats.wordpress.com</domain>
-    <ip>192.48.79.30</ip>
+    <domain>en.blog.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-90>
   <UID-91>
-    <domain>wpcom.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>en.blog.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-91>
   <UID-92>
-    <domain>wpcom.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>en.blog.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-92>
   <UID-93>
-    <domain>wpcom.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>en.blog.wordpress.com</domain>
+    <ip>192.55.83.30</ip>
   </UID-93>
   <UID-94>
-    <domain>wpcom.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>stats.wordpress.com</domain>
+    <ip>192.0.76.2</ip>
   </UID-94>
   <UID-95>
-    <domain>wpcom.wordpress.com</domain>
+    <domain>stats.wordpress.com</domain>
     <ip>69.174.248.149</ip>
   </UID-95>
   <UID-96>
-    <domain>botd2.wordpress.com</domain>
-    <ip>192.0.80.250</ip>
+    <domain>stats.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-96>
   <UID-97>
-    <domain>botd2.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>stats.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-97>
   <UID-98>
-    <domain>botd2.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>stats.wordpress.com</domain>
+    <ip>192.55.83.30</ip>
   </UID-98>
   <UID-99>
-    <domain>botd.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>wpcom.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-99>
   <UID-100>
-    <domain>botd.wordpress.com</domain>
-    <ip>192.0.76.2</ip>
+    <domain>wpcom.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-100>
   <UID-101>
-    <domain>botd.wordpress.com</domain>
-    <ip>69.174.248.148</ip>
+    <domain>wpcom.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-101>
   <UID-102>
-    <domain>botd.wordpress.com</domain>
-    <ip>69.174.248.149</ip>
+    <domain>wpcom.wordpress.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-102>
   <UID-103>
-    <domain>botd.wordpress.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>wpcom.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-103>
   <UID-104>
-    <domain>lucifr.wordpress.com</domain>
-    <ip>192.0.78.12</ip>
+    <domain>botd2.wordpress.com</domain>
+    <ip>192.0.81.250</ip>
   </UID-104>
   <UID-105>
-    <domain>lucifr.wordpress.com</domain>
-    <ip>192.0.78.13</ip>
+    <domain>botd2.wordpress.com</domain>
+    <ip>192.0.80.250</ip>
   </UID-105>
   <UID-106>
-    <domain>lucifr.wordpress.com</domain>
-    <ip>192.0.80.93</ip>
+    <domain>botd2.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-106>
   <UID-107>
-    <domain>s.gravatar.com</domain>
-    <ip>68.232.44.121</ip>
+    <domain>botd.wordpress.com</domain>
+    <ip>192.0.76.2</ip>
   </UID-107>
   <UID-108>
-    <domain>s.gravatar.com</domain>
-    <ip>68.232.35.121</ip>
+    <domain>botd.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-108>
   <UID-109>
-    <domain>s.gravatar.com</domain>
-    <ip>72.21.80.6</ip>
+    <domain>botd.wordpress.com</domain>
+    <ip>207.198.112.47</ip>
   </UID-109>
   <UID-110>
-    <domain>0.gravatar.com</domain>
-    <ip>68.232.44.121</ip>
+    <domain>lucifr.wordpress.com</domain>
+    <ip>192.0.78.13</ip>
   </UID-110>
   <UID-111>
-    <domain>0.gravatar.com</domain>
-    <ip>72.21.91.121</ip>
+    <domain>lucifr.wordpress.com</domain>
+    <ip>192.0.78.12</ip>
   </UID-111>
   <UID-112>
-    <domain>0.gravatar.com</domain>
-    <ip>68.232.35.121</ip>
+    <domain>lucifr.wordpress.com</domain>
+    <ip>69.174.248.149</ip>
   </UID-112>
   <UID-113>
-    <domain>1.gravatar.com</domain>
-    <ip>68.232.44.121</ip>
+    <domain>s.gravatar.com</domain>
+    <ip>68.232.35.121</ip>
   </UID-113>
   <UID-114>
-    <domain>1.gravatar.com</domain>
+    <domain>s.gravatar.com</domain>
     <ip>72.21.91.121</ip>
   </UID-114>
   <UID-115>
-    <domain>1.gravatar.com</domain>
-    <ip>198.181.118.5</ip>
+    <domain>s.gravatar.com</domain>
+    <ip>68.232.44.121</ip>
   </UID-115>
   <UID-116>
-    <domain>2.gravatar.com</domain>
-    <ip>68.232.44.121</ip>
+    <domain>0.gravatar.com</domain>
+    <ip>68.232.35.121</ip>
   </UID-116>
   <UID-117>
-    <domain>2.gravatar.com</domain>
-    <ip>192.0.74.5</ip>
+    <domain>0.gravatar.com</domain>
+    <ip>72.21.91.121</ip>
   </UID-117>
   <UID-118>
-    <domain>2.gravatar.com</domain>
-    <ip>198.181.116.5</ip>
+    <domain>0.gravatar.com</domain>
+    <ip>68.232.44.121</ip>
   </UID-118>
   <UID-119>
-    <domain>lb.gravatar.com</domain>
-    <ip>192.0.80.239</ip>
+    <domain>0.gravatar.com</domain>
+    <ip>198.181.118.5</ip>
   </UID-119>
   <UID-120>
-    <domain>lb.gravatar.com</domain>
-    <ip>192.0.80.240</ip>
+    <domain>0.gravatar.com</domain>
+    <ip>72.21.80.6</ip>
   </UID-120>
   <UID-121>
+    <domain>1.gravatar.com</domain>
+    <ip>68.232.35.121</ip>
+  </UID-121>
+  <UID-122>
+    <domain>1.gravatar.com</domain>
+    <ip>72.21.91.121</ip>
+  </UID-122>
+  <UID-123>
+    <domain>1.gravatar.com</domain>
+    <ip>68.232.44.121</ip>
+  </UID-123>
+  <UID-124>
+    <domain>1.gravatar.com</domain>
+    <ip>198.181.118.5</ip>
+  </UID-124>
+  <UID-125>
+    <domain>1.gravatar.com</domain>
+    <ip>72.21.80.6</ip>
+  </UID-125>
+  <UID-126>
+    <domain>2.gravatar.com</domain>
+    <ip>68.232.35.121</ip>
+  </UID-126>
+  <UID-127>
+    <domain>2.gravatar.com</domain>
+    <ip>72.21.91.121</ip>
+  </UID-127>
+  <UID-128>
+    <domain>2.gravatar.com</domain>
+    <ip>68.232.44.121</ip>
+  </UID-128>
+  <UID-129>
+    <domain>2.gravatar.com</domain>
+    <ip>198.181.118.5</ip>
+  </UID-129>
+  <UID-130>
+    <domain>2.gravatar.com</domain>
+    <ip>72.21.80.6</ip>
+  </UID-130>
+  <UID-131>
+    <domain>lb.gravatar.com</domain>
+    <ip>192.0.80.239</ip>
+  </UID-131>
+  <UID-132>
     <domain>lb.gravatar.com</domain>
     <ip>192.0.80.242</ip>
-  </UID-121>
+  </UID-132>
+  <UID-133>
+    <domain>lb.gravatar.com</domain>
+    <ip>192.0.80.241</ip>
+  </UID-133>
 </WordPress>

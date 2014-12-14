@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="gb2312"?>
 <Data>
   <MAXUID>
-    <Activation>71</Activation>
-    <Apple>20213</Apple>
-    <Dropbox>5767</Dropbox>
-    <Facebook>301</Facebook>
-    <Flickr>193</Flickr>
-    <Github>46</Github>
-    <GoogleApis>365</GoogleApis>
-    <GoogleWeb>793</GoogleWeb>
-    <hostsx>3167</hostsx>
+    <Activation>36</Activation>
+    <Apple>10083</Apple>
+    <Dropbox>5774</Dropbox>
+    <Facebook>340</Facebook>
+    <Flickr>176</Flickr>
+    <Github>50</Github>
+    <GoogleApis>183</GoogleApis>
+    <GoogleWeb>397</GoogleWeb>
+    <hostsx>9847</hostsx>
     <mvps>9682</mvps>
-    <Onedrive>11</Onedrive>
-    <Other>426</Other>
-    <Steam>39</Steam>
+    <Onedrive>15</Onedrive>
+    <Other>1</Other>
+    <Steam>43</Steam>
     <Twitter>75</Twitter>
-    <Wiki>139</Wiki>
-    <WordPress>122</WordPress>
-    <Youtube>1237</Youtube>
+    <Wiki>163</Wiki>
+    <WordPress>134</WordPress>
+    <Youtube>619</Youtube>
   </MAXUID>
 </Data>

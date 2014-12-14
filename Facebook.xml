@@ -1,1203 +1,1359 @@
 <?xml version="1.0" encoding="gb2312"?>
 <Facebook>
   <UID-1>
-    <domain>s-static.ak.facebook.com</domain>
-    <ip>23.214.189.235</ip>
+    <domain>s-static.ak.facebook.net</domain>
+    <ip>69.171.255.12</ip>
   </UID-1>
   <UID-2>
-    <domain>s-static.ak.facebook.com</domain>
-    <ip>184.25.16.53</ip>
+    <domain>s-static.ak.facebook.net</domain>
+    <ip>69.171.239.12</ip>
   </UID-2>
   <UID-3>
     <domain>s-static.ak.facebook.com</domain>
-    <ip>125.56.214.165</ip>
+    <ip>118.215.57.82</ip>
   </UID-3>
   <UID-4>
     <domain>s-static.ak.facebook.com</domain>
-    <ip>112.175.42.22</ip>
+    <ip>84.53.166.110</ip>
   </UID-4>
   <UID-5>
     <domain>s-static.ak.facebook.com</domain>
-    <ip>23.15.245.164</ip>
+    <ip>95.100.2.110</ip>
   </UID-5>
   <UID-6>
-    <domain>static.ak.facebook.com</domain>
-    <ip>123.215.198.8</ip>
+    <domain>s-static.ak.facebook.com</domain>
+    <ip>23.7.139.7</ip>
   </UID-6>
   <UID-7>
-    <domain>static.ak.facebook.com</domain>
-    <ip>203.116.74.226</ip>
+    <domain>s-static.ak.facebook.com</domain>
+    <ip>184.84.239.178</ip>
   </UID-7>
   <UID-8>
-    <domain>static.ak.facebook.com</domain>
-    <ip>188.43.72.209</ip>
+    <domain>s-static.ak.facebook.com</domain>
+    <ip>112.175.42.20</ip>
   </UID-8>
   <UID-9>
-    <domain>static.ak.facebook.com</domain>
-    <ip>95.100.255.146</ip>
+    <domain>s-static.ak.facebook.com</domain>
+    <ip>96.7.248.138</ip>
   </UID-9>
   <UID-10>
-    <domain>static.ak.facebook.com</domain>
-    <ip>202.148.200.146</ip>
+    <domain>profile.ak.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-10>
   <UID-11>
-    <domain>static.ak.facebook.com</domain>
-    <ip>210.61.248.209</ip>
+    <domain>profile.ak.facebook.com</domain>
+    <ip>69.171.239.12</ip>
   </UID-11>
   <UID-12>
     <domain>static.ak.facebook.com</domain>
-    <ip>188.43.73.11</ip>
+    <ip>123.215.198.8</ip>
   </UID-12>
   <UID-13>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>61.220.62.161</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>203.116.74.226</ip>
   </UID-13>
   <UID-14>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>123.215.198.8</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>95.100.255.163</ip>
   </UID-14>
   <UID-15>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>203.69.81.58</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>210.149.135.22</ip>
   </UID-15>
   <UID-16>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>23.76.204.155</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>95.100.255.146</ip>
   </UID-16>
   <UID-17>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>203.116.74.226</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>210.149.135.101</ip>
   </UID-17>
   <UID-18>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>188.43.72.209</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>96.7.54.50</ip>
   </UID-18>
   <UID-19>
-    <domain>b.static.ak.facebook.com</domain>
-    <ip>62.24.131.144</ip>
+    <domain>static.ak.facebook.com</domain>
+    <ip>95.100.248.147</ip>
   </UID-19>
   <UID-20>
     <domain>b.static.ak.facebook.com</domain>
-    <ip>95.100.255.146</ip>
+    <ip>184.25.157.82</ip>
   </UID-20>
   <UID-21>
-    <domain>graph.facebook.com</domain>
-    <ip>173.252.74.22</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>203.116.74.226</ip>
   </UID-21>
   <UID-22>
-    <domain>graph.facebook.com</domain>
-    <ip>31.13.87.16</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>95.100.255.163</ip>
   </UID-22>
   <UID-23>
-    <domain>graph.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>188.43.73.11</ip>
   </UID-23>
   <UID-24>
-    <domain>ssl.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>95.100.255.146</ip>
   </UID-24>
   <UID-25>
-    <domain>ssl.facebook.com</domain>
-    <ip>31.13.79.112</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>96.7.54.50</ip>
   </UID-25>
   <UID-26>
-    <domain>ssl.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>95.100.248.147</ip>
   </UID-26>
   <UID-27>
-    <domain>ssl.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>b.static.ak.facebook.com</domain>
+    <ip>62.24.131.176</ip>
   </UID-27>
   <UID-28>
-    <domain>ssl.facebook.com</domain>
-    <ip>31.13.68.33</ip>
+    <domain>graph.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-28>
   <UID-29>
-    <domain>api.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>graph.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-29>
   <UID-30>
-    <domain>api.facebook.com</domain>
-    <ip>173.252.74.22</ip>
+    <domain>graph.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-30>
   <UID-31>
-    <domain>api.facebook.com</domain>
-    <ip>31.13.90.33</ip>
+    <domain>graph.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-31>
   <UID-32>
-    <domain>api.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>graph.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-32>
   <UID-33>
-    <domain>api.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>ssl.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-33>
   <UID-34>
-    <domain>api-read.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>ssl.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-34>
   <UID-35>
-    <domain>api-read.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>ssl.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-35>
   <UID-36>
-    <domain>api-read.facebook.com</domain>
-    <ip>173.252.112.23</ip>
+    <domain>ssl.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-36>
   <UID-37>
-    <domain>b-api.facebook.com</domain>
-    <ip>31.13.68.38</ip>
+    <domain>ssl.facebook.com</domain>
+    <ip>173.252.110.27</ip>
   </UID-37>
   <UID-38>
-    <domain>b-api.facebook.com</domain>
-    <ip>31.13.79.117</ip>
+    <domain>api.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-38>
   <UID-39>
-    <domain>b-api.facebook.com</domain>
-    <ip>31.13.68.54</ip>
+    <domain>api.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-39>
   <UID-40>
-    <domain>b-api.facebook.com</domain>
-    <ip>31.13.90.35</ip>
+    <domain>api.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-40>
   <UID-41>
-    <domain>b-api.facebook.com</domain>
-    <ip>173.252.101.50</ip>
+    <domain>api.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-41>
   <UID-42>
-    <domain>secure-profile.facebook.com</domain>
-    <ip>173.252.103.12</ip>
+    <domain>api.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-42>
   <UID-43>
-    <domain>secure-profile.facebook.com</domain>
-    <ip>173.252.106.16</ip>
+    <domain>api-read.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-43>
   <UID-44>
-    <domain>secure-profile.facebook.com</domain>
-    <ip>173.252.108.1</ip>
+    <domain>api-read.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-44>
   <UID-45>
-    <domain>secure.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>api-read.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-45>
   <UID-46>
-    <domain>secure.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>api-read.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-46>
   <UID-47>
-    <domain>secure.facebook.com</domain>
+    <domain>api-read.facebook.com</domain>
     <ip>173.252.110.27</ip>
   </UID-47>
   <UID-48>
-    <domain>secure.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>b-api.facebook.com</domain>
+    <ip>31.13.79.133</ip>
   </UID-48>
   <UID-49>
-    <domain>secure.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>b-api.facebook.com</domain>
+    <ip>31.13.68.54</ip>
   </UID-49>
   <UID-50>
-    <domain>zh-cn.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>b-api.facebook.com</domain>
+    <ip>69.171.237.25</ip>
   </UID-50>
   <UID-51>
-    <domain>zh-cn.facebook.com</domain>
-    <ip>31.13.90.33</ip>
+    <domain>b-api.facebook.com</domain>
+    <ip>31.13.79.149</ip>
   </UID-51>
   <UID-52>
-    <domain>zh-cn.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>b-api.facebook.com</domain>
+    <ip>31.13.87.18</ip>
   </UID-52>
   <UID-53>
-    <domain>zh-cn.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>secure-profile.facebook.com</domain>
+    <ip>173.252.114.1</ip>
   </UID-53>
   <UID-54>
-    <domain>zh-cn.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>secure-profile.facebook.com</domain>
+    <ip>173.252.114.4</ip>
   </UID-54>
   <UID-55>
-    <domain>login.facebook.com</domain>
-    <ip>31.13.79.112</ip>
+    <domain>secure-profile.facebook.com</domain>
+    <ip>173.252.103.11</ip>
   </UID-55>
   <UID-56>
-    <domain>login.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>secure-profile.facebook.com</domain>
+    <ip>173.252.108.1</ip>
   </UID-56>
   <UID-57>
-    <domain>login.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>secure-profile.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-57>
   <UID-58>
-    <domain>login.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>secure.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-58>
   <UID-59>
-    <domain>login.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>secure.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-59>
   <UID-60>
-    <domain>m.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>secure.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-60>
   <UID-61>
-    <domain>m.facebook.com</domain>
-    <ip>173.252.74.22</ip>
+    <domain>secure.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-61>
   <UID-62>
-    <domain>m.facebook.com</domain>
+    <domain>secure.facebook.com</domain>
     <ip>173.252.110.27</ip>
   </UID-62>
   <UID-63>
-    <domain>m.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>zh-cn.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-63>
   <UID-64>
-    <domain>m.facebook.com</domain>
-    <ip>173.252.112.23</ip>
+    <domain>zh-cn.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-64>
   <UID-65>
-    <domain>messages-facebook.com</domain>
-    <ip>192.26.92.30</ip>
+    <domain>zh-cn.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-65>
   <UID-66>
-    <domain>messages-facebook.com</domain>
-    <ip>192.33.14.30</ip>
+    <domain>zh-cn.facebook.com</domain>
+    <ip>31.13.87.16</ip>
   </UID-66>
   <UID-67>
-    <domain>messages-facebook.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>zh-cn.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-67>
   <UID-68>
-    <domain>messages-facebook.com</domain>
-    <ip>208.109.255.3</ip>
+    <domain>login.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-68>
   <UID-69>
-    <domain>messages-facebook.com</domain>
-    <ip>192.48.79.30</ip>
+    <domain>login.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-69>
   <UID-70>
-    <domain>attachments.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>login.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-70>
   <UID-71>
-    <domain>attachments.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>login.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-71>
   <UID-72>
-    <domain>attachments.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>login.facebook.com</domain>
+    <ip>173.252.110.27</ip>
   </UID-72>
   <UID-73>
-    <domain>attachments.facebook.com</domain>
-    <ip>31.13.68.33</ip>
+    <domain>m.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-73>
   <UID-74>
-    <domain>attachments.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>m.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-74>
   <UID-75>
-    <domain>touch.facebook.com</domain>
-    <ip>31.13.68.49</ip>
+    <domain>m.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-75>
   <UID-76>
-    <domain>touch.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>m.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-76>
   <UID-77>
-    <domain>touch.facebook.com</domain>
-    <ip>173.252.112.23</ip>
+    <domain>m.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-77>
   <UID-78>
-    <domain>touch.facebook.com</domain>
-    <ip>31.13.70.1</ip>
+    <domain>messages-facebook.com</domain>
+    <ip>192.26.92.30</ip>
   </UID-78>
   <UID-79>
-    <domain>touch.facebook.com</domain>
-    <ip>69.171.239.11</ip>
+    <domain>messages-facebook.com</domain>
+    <ip>192.31.80.30</ip>
   </UID-79>
   <UID-80>
-    <domain>facebook.com</domain>
-    <ip>173.252.120.6</ip>
+    <domain>messages-facebook.com</domain>
+    <ip>208.109.255.3</ip>
   </UID-80>
   <UID-81>
-    <domain>facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>messages-facebook.com</domain>
+    <ip>192.55.83.30</ip>
   </UID-81>
   <UID-82>
-    <domain>facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>messages-facebook.com</domain>
+    <ip>192.41.162.30</ip>
   </UID-82>
   <UID-83>
-    <domain>www.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>attachments.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-83>
   <UID-84>
-    <domain>www.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>attachments.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-84>
   <UID-85>
-    <domain>www.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>attachments.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-85>
   <UID-86>
-    <domain>www.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>attachments.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-86>
   <UID-87>
-    <domain>www.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>attachments.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-87>
   <UID-88>
-    <domain>apps.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>touch.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-88>
   <UID-89>
-    <domain>apps.facebook.com</domain>
-    <ip>173.252.112.23</ip>
+    <domain>touch.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-89>
   <UID-90>
-    <domain>apps.facebook.com</domain>
-    <ip>31.13.70.1</ip>
+    <domain>touch.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-90>
   <UID-91>
-    <domain>orcart.facebook.com</domain>
-    <ip>173.252.79.23</ip>
+    <domain>touch.facebook.com</domain>
+    <ip>173.252.110.27</ip>
   </UID-91>
   <UID-92>
-    <domain>orcart.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>touch.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-92>
   <UID-93>
-    <domain>orcart.facebook.com</domain>
-    <ip>69.171.248.65</ip>
+    <domain>facebook.com</domain>
+    <ip>173.252.120.6</ip>
   </UID-93>
   <UID-94>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>203.69.81.67</ip>
+    <domain>facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-94>
   <UID-95>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>1.9.56.193</ip>
+    <domain>facebook.com</domain>
+    <ip>69.171.239.12</ip>
   </UID-95>
   <UID-96>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>61.220.62.161</ip>
+    <domain>www.facebook.com</domain>
+    <ip>31.13.76.102</ip>
   </UID-96>
   <UID-97>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>87.245.200.26</ip>
+    <domain>www.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-97>
   <UID-98>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>203.69.81.72</ip>
+    <domain>www.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-98>
   <UID-99>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>203.69.81.64</ip>
+    <domain>www.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-99>
   <UID-100>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>203.69.81.98</ip>
+    <domain>www.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-100>
   <UID-101>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>1.9.56.169</ip>
+    <domain>apps.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-101>
   <UID-102>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>1.9.56.192</ip>
+    <domain>apps.facebook.com</domain>
+    <ip>31.13.87.1</ip>
   </UID-102>
   <UID-103>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>23.212.109.24</ip>
+    <domain>apps.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-103>
   <UID-104>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>87.245.200.17</ip>
+    <domain>apps.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-104>
   <UID-105>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>208.31.254.25</ip>
+    <domain>apps.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-105>
   <UID-106>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>203.69.81.58</ip>
+    <domain>orcart.facebook.com</domain>
+    <ip>69.171.245.49</ip>
   </UID-106>
   <UID-107>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>1.9.56.186</ip>
+    <domain>orcart.facebook.com</domain>
+    <ip>173.252.80.5</ip>
   </UID-107>
   <UID-108>
-    <domain>profile.ak.fbcdn.net</domain>
-    <ip>1.9.56.184</ip>
+    <domain>orcart.facebook.com</domain>
+    <ip>69.171.255.11</ip>
   </UID-108>
   <UID-109>
     <domain>profile.ak.fbcdn.net</domain>
-    <ip>23.14.92.88</ip>
+    <ip>61.220.62.219</ip>
   </UID-109>
   <UID-110>
     <domain>profile.ak.fbcdn.net</domain>
-    <ip>95.100.255.177</ip>
+    <ip>124.155.222.19</ip>
   </UID-110>
   <UID-111>
     <domain>profile.ak.fbcdn.net</domain>
-    <ip>124.155.222.27</ip>
+    <ip>124.155.222.26</ip>
   </UID-111>
   <UID-112>
-    <domain>vpn.tfbnw.net</domain>
-    <ip>173.252.71.184</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>23.14.92.25</ip>
   </UID-112>
   <UID-113>
-    <domain>vpn.tfbnw.net</domain>
-    <ip>69.171.239.11</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>95.100.255.145</ip>
   </UID-113>
   <UID-114>
-    <domain>vpn.tfbnw.net</domain>
-    <ip>69.171.239.12</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>184.51.15.76</ip>
   </UID-114>
   <UID-115>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>23.65.188.18</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>203.69.81.106</ip>
   </UID-115>
   <UID-116>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>61.111.58.5</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>124.155.222.16</ip>
   </UID-116>
   <UID-117>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>23.74.24.123</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>203.69.81.107</ip>
   </UID-117>
   <UID-118>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>23.65.188.17</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>184.51.15.111</ip>
   </UID-118>
   <UID-119>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>188.43.72.217</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>124.155.222.24</ip>
   </UID-119>
   <UID-120>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>124.155.222.147</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>23.62.109.216</ip>
   </UID-120>
   <UID-121>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>87.251.132.237</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>203.69.81.43</ip>
   </UID-121>
   <UID-122>
-    <domain>vthumb.ak.fbcdn.net</domain>
-    <ip>124.155.222.221</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>23.14.92.49</ip>
   </UID-122>
   <UID-123>
-    <domain>photos-a.ak.fbcdn.net</domain>
-    <ip>188.43.72.19</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>23.62.109.169</ip>
   </UID-123>
   <UID-124>
-    <domain>photos-a.ak.fbcdn.net</domain>
-    <ip>23.212.109.89</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>95.100.255.177</ip>
   </UID-124>
   <UID-125>
-    <domain>photos-a.ak.fbcdn.net</domain>
-    <ip>23.212.109.17</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>184.51.15.109</ip>
   </UID-125>
   <UID-126>
-    <domain>photos-a.ak.fbcdn.net</domain>
-    <ip>210.61.248.27</ip>
+    <domain>profile.ak.fbcdn.net</domain>
+    <ip>203.69.81.105</ip>
   </UID-126>
   <UID-127>
-    <domain>photos-a.ak.fbcdn.net</domain>
-    <ip>210.61.248.49</ip>
+    <domain>vpn.tfbnw.net</domain>
+    <ip>173.252.71.184</ip>
   </UID-127>
   <UID-128>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>124.155.222.157</ip>
+    <domain>vpn.tfbnw.net</domain>
+    <ip>69.171.255.12</ip>
   </UID-128>
   <UID-129>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>210.61.248.98</ip>
+    <domain>vpn.tfbnw.net</domain>
+    <ip>69.171.239.11</ip>
   </UID-129>
   <UID-130>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>124.155.223.11</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>203.69.138.157</ip>
   </UID-130>
   <UID-131>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>23.212.109.51</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>87.245.202.61</ip>
   </UID-131>
   <UID-132>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>95.100.248.104</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>96.17.72.95</ip>
   </UID-132>
   <UID-133>
-    <domain>photos-b.ak.fbcdn.net</domain>
-    <ip>184.50.85.102</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>23.76.153.73</ip>
   </UID-133>
   <UID-134>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>23.76.204.99</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>23.76.153.67</ip>
   </UID-134>
   <UID-135>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>124.155.223.35</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>58.26.1.72</ip>
   </UID-135>
   <UID-136>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>23.65.188.24</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>184.28.16.121</ip>
   </UID-136>
   <UID-137>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>61.111.58.15</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>58.26.1.75</ip>
   </UID-137>
   <UID-138>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>23.212.109.9</ip>
+    <domain>vthumb.ak.fbcdn.net</domain>
+    <ip>23.15.245.55</ip>
   </UID-138>
   <UID-139>
-    <domain>photos-c.ak.fbcdn.net</domain>
-    <ip>87.251.132.238</ip>
+    <domain>photos-a.ak.fbcdn.net</domain>
+    <ip>184.51.7.13</ip>
   </UID-139>
   <UID-140>
-    <domain>photos-d.ak.fbcdn.net</domain>
-    <ip>124.155.223.41</ip>
+    <domain>photos-a.ak.fbcdn.net</domain>
+    <ip>188.43.72.19</ip>
   </UID-140>
   <UID-141>
-    <domain>photos-d.ak.fbcdn.net</domain>
-    <ip>23.65.188.16</ip>
+    <domain>photos-a.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-141>
   <UID-142>
-    <domain>photos-d.ak.fbcdn.net</domain>
-    <ip>188.43.72.17</ip>
+    <domain>photos-a.ak.fbcdn.net</domain>
+    <ip>96.7.55.24</ip>
   </UID-142>
   <UID-143>
-    <domain>photos-d.ak.fbcdn.net</domain>
-    <ip>23.65.188.9</ip>
+    <domain>photos-a.ak.fbcdn.net</domain>
+    <ip>23.212.109.57</ip>
   </UID-143>
   <UID-144>
-    <domain>photos-d.ak.fbcdn.net</domain>
+    <domain>photos-a.ak.fbcdn.net</domain>
     <ip>124.155.223.24</ip>
   </UID-144>
   <UID-145>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>23.65.188.18</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>210.61.248.98</ip>
   </UID-145>
   <UID-146>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>188.43.72.19</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>61.111.58.14</ip>
   </UID-146>
   <UID-147>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>184.50.85.149</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>125.56.214.95</ip>
   </UID-147>
   <UID-148>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>23.212.109.89</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>210.61.248.90</ip>
   </UID-148>
   <UID-149>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>23.212.109.17</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>23.65.188.25</ip>
   </UID-149>
   <UID-150>
-    <domain>photos-e.ak.fbcdn.net</domain>
-    <ip>210.61.248.27</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>124.155.223.29</ip>
   </UID-150>
   <UID-151>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>23.65.188.18</ip>
+    <domain>photos-b.ak.fbcdn.net</domain>
+    <ip>184.51.15.140</ip>
   </UID-151>
   <UID-152>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>23.65.188.25</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>184.51.7.13</ip>
   </UID-152>
   <UID-153>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>184.51.7.12</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>210.61.248.73</ip>
   </UID-153>
   <UID-154>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>124.155.222.157</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>124.155.223.35</ip>
   </UID-154>
   <UID-155>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>124.155.223.11</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>23.65.188.33</ip>
   </UID-155>
   <UID-156>
-    <domain>photos-f.ak.fbcdn.net</domain>
-    <ip>23.212.109.51</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>184.51.15.166</ip>
   </UID-156>
   <UID-157>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>72.246.188.16</ip>
+    <domain>photos-c.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-157>
   <UID-158>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>23.76.204.99</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>23.65.188.16</ip>
   </UID-158>
   <UID-159>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>72.246.188.59</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>61.111.58.14</ip>
   </UID-159>
   <UID-160>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>124.155.223.35</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>125.56.214.95</ip>
   </UID-160>
   <UID-161>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>23.65.188.24</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>92.122.212.145</ip>
   </UID-161>
   <UID-162>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>61.111.58.15</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-162>
   <UID-163>
-    <domain>photos-g.ak.fbcdn.net</domain>
-    <ip>23.212.109.9</ip>
+    <domain>photos-d.ak.fbcdn.net</domain>
+    <ip>124.155.223.24</ip>
   </UID-163>
   <UID-164>
-    <domain>photos-h.ak.fbcdn.net</domain>
-    <ip>124.155.223.41</ip>
+    <domain>photos-e.ak.fbcdn.net</domain>
+    <ip>184.51.7.13</ip>
   </UID-164>
   <UID-165>
-    <domain>photos-h.ak.fbcdn.net</domain>
-    <ip>23.65.188.16</ip>
+    <domain>photos-e.ak.fbcdn.net</domain>
+    <ip>184.51.7.15</ip>
   </UID-165>
   <UID-166>
-    <domain>photos-h.ak.fbcdn.net</domain>
-    <ip>188.43.72.17</ip>
+    <domain>photos-e.ak.fbcdn.net</domain>
+    <ip>188.43.72.19</ip>
   </UID-166>
   <UID-167>
-    <domain>photos-h.ak.fbcdn.net</domain>
-    <ip>23.65.188.9</ip>
+    <domain>photos-e.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-167>
   <UID-168>
-    <domain>photos-h.ak.fbcdn.net</domain>
-    <ip>184.50.85.123</ip>
+    <domain>photos-e.ak.fbcdn.net</domain>
+    <ip>23.212.109.57</ip>
   </UID-168>
   <UID-169>
-    <domain>photos-h.ak.fbcdn.net</domain>
+    <domain>photos-e.ak.fbcdn.net</domain>
     <ip>124.155.223.24</ip>
   </UID-169>
   <UID-170>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>123.215.198.8</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>210.61.248.98</ip>
   </UID-170>
   <UID-171>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>188.43.73.9</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>184.51.7.15</ip>
   </UID-171>
   <UID-172>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>95.100.255.153</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>210.61.248.90</ip>
   </UID-172>
   <UID-173>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>123.215.198.9</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>157.197.97.15</ip>
   </UID-173>
   <UID-174>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>188.43.72.208</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>23.65.188.25</ip>
   </UID-174>
   <UID-175>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>203.116.74.211</ip>
+    <domain>photos-f.ak.fbcdn.net</domain>
+    <ip>124.155.223.29</ip>
   </UID-175>
   <UID-176>
-    <domain>creative.ak.fbcdn.net</domain>
-    <ip>62.24.131.182</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>210.61.248.73</ip>
   </UID-176>
   <UID-177>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>203.116.74.218</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>124.155.223.35</ip>
   </UID-177>
   <UID-178>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>123.215.198.11</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>23.65.188.33</ip>
   </UID-178>
   <UID-179>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>62.24.131.159</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>184.51.15.166</ip>
   </UID-179>
   <UID-180>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>188.43.72.218</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-180>
   <UID-181>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>95.100.255.147</ip>
+    <domain>photos-g.ak.fbcdn.net</domain>
+    <ip>157.197.97.15</ip>
   </UID-181>
   <UID-182>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>188.43.73.11</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>184.51.7.13</ip>
   </UID-182>
   <UID-183>
-    <domain>external.ak.fbcdn.net</domain>
-    <ip>95.100.248.72</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>210.61.248.73</ip>
   </UID-183>
   <UID-184>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>61.220.62.161</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>23.65.188.16</ip>
   </UID-184>
   <UID-185>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>123.215.198.8</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>184.51.7.15</ip>
   </UID-185>
   <UID-186>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>203.69.81.58</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>92.122.212.145</ip>
   </UID-186>
   <UID-187>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>23.76.204.155</ip>
+    <domain>photos-h.ak.fbcdn.net</domain>
+    <ip>124.155.223.32</ip>
   </UID-187>
   <UID-188>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>203.116.74.226</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>96.17.70.226</ip>
   </UID-188>
   <UID-189>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>188.43.72.209</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>123.215.198.8</ip>
   </UID-189>
   <UID-190>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>62.24.131.144</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>123.215.198.9</ip>
   </UID-190>
   <UID-191>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>95.100.255.146</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>96.7.54.9</ip>
   </UID-191>
   <UID-192>
-    <domain>b.static.ak.fbcdn.net</domain>
-    <ip>202.148.200.146</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>210.61.248.211</ip>
   </UID-192>
   <UID-193>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>123.215.198.8</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>203.116.74.218</ip>
   </UID-193>
   <UID-194>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>203.69.138.92</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>210.61.248.210</ip>
   </UID-194>
   <UID-195>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>203.116.74.226</ip>
+    <domain>creative.ak.fbcdn.net</domain>
+    <ip>203.116.74.211</ip>
   </UID-195>
   <UID-196>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>188.43.72.209</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>96.17.70.226</ip>
   </UID-196>
   <UID-197>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>95.100.255.146</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>96.7.54.25</ip>
   </UID-197>
   <UID-198>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>202.148.200.146</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>96.17.70.227</ip>
   </UID-198>
   <UID-199>
-    <domain>static.ak.fbcdn.net</domain>
-    <ip>203.69.138.68</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>210.61.248.201</ip>
   </UID-199>
   <UID-200>
-    <domain>scontent.xx.fbcdn.net</domain>
-    <ip>31.13.65.7</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>62.24.131.168</ip>
   </UID-200>
   <UID-201>
-    <domain>scontent.xx.fbcdn.net</domain>
-    <ip>31.13.70.40</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>188.43.73.11</ip>
   </UID-201>
   <UID-202>
-    <domain>scontent.xx.fbcdn.net</domain>
-    <ip>31.13.66.71</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>123.215.198.11</ip>
   </UID-202>
   <UID-203>
-    <domain>scontent-a.xx.fbcdn.net</domain>
-    <ip>31.13.71.71</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>202.148.200.139</ip>
   </UID-203>
   <UID-204>
-    <domain>scontent-a.xx.fbcdn.net</domain>
-    <ip>31.13.65.7</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>95.100.248.89</ip>
   </UID-204>
   <UID-205>
-    <domain>scontent-a.xx.fbcdn.net</domain>
-    <ip>31.13.70.40</ip>
+    <domain>external.ak.fbcdn.net</domain>
+    <ip>95.100.248.147</ip>
   </UID-205>
   <UID-206>
-    <domain>scontent-b.xx.fbcdn.net</domain>
-    <ip>31.13.70.56</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>123.215.198.8</ip>
   </UID-206>
   <UID-207>
-    <domain>scontent-b.xx.fbcdn.net</domain>
-    <ip>31.13.65.23</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>184.25.157.82</ip>
   </UID-207>
   <UID-208>
-    <domain>scontent-b.xx.fbcdn.net</domain>
-    <ip>31.13.71.87</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>203.116.74.226</ip>
   </UID-208>
   <UID-209>
-    <domain>upload.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>95.100.255.163</ip>
   </UID-209>
   <UID-210>
-    <domain>upload.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>188.43.73.11</ip>
   </UID-210>
   <UID-211>
-    <domain>upload.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>95.100.255.146</ip>
   </UID-211>
   <UID-212>
-    <domain>developers.facebook.com</domain>
-    <ip>173.252.74.22</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>96.7.54.50</ip>
   </UID-212>
   <UID-213>
-    <domain>developers.facebook.com</domain>
-    <ip>31.13.87.16</ip>
+    <domain>b.static.ak.fbcdn.net</domain>
+    <ip>95.100.248.147</ip>
   </UID-213>
   <UID-214>
-    <domain>developers.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>203.116.74.226</ip>
   </UID-214>
   <UID-215>
-    <domain>developers.facebook.com</domain>
-    <ip>31.13.68.33</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>95.100.255.163</ip>
   </UID-215>
   <UID-216>
-    <domain>developers.facebook.com</domain>
-    <ip>173.252.112.23</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>210.149.135.22</ip>
   </UID-216>
   <UID-217>
-    <domain>bigzipfiles.facebook.com</domain>
-    <ip>173.252.103.8</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>188.43.73.11</ip>
   </UID-217>
   <UID-218>
-    <domain>bigzipfiles.facebook.com</domain>
-    <ip>69.171.235.22</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>95.100.255.146</ip>
   </UID-218>
   <UID-219>
-    <domain>bigzipfiles.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>210.149.135.101</ip>
   </UID-219>
   <UID-220>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>203.69.81.50</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>96.7.54.50</ip>
   </UID-220>
   <UID-221>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>210.149.135.92</ip>
+    <domain>static.ak.fbcdn.net</domain>
+    <ip>95.100.248.147</ip>
   </UID-221>
   <UID-222>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>210.149.135.23</ip>
+    <domain>scontent.xx.fbcdn.net</domain>
+    <ip>31.13.70.56</ip>
   </UID-222>
   <UID-223>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>203.69.81.58</ip>
+    <domain>scontent.xx.fbcdn.net</domain>
+    <ip>31.13.66.5</ip>
   </UID-223>
   <UID-224>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>61.220.62.160</ip>
+    <domain>scontent.xx.fbcdn.net</domain>
+    <ip>31.13.65.7</ip>
   </UID-224>
   <UID-225>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>188.43.72.248</ip>
+    <domain>scontent-a.xx.fbcdn.net</domain>
+    <ip>31.13.66.5</ip>
   </UID-225>
   <UID-226>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>61.220.62.218</ip>
+    <domain>scontent-a.xx.fbcdn.net</domain>
+    <ip>179.60.192.149</ip>
   </UID-226>
   <UID-227>
-    <domain>fbstatic-a.akamaihd.net</domain>
-    <ip>203.69.81.88</ip>
+    <domain>scontent-a.xx.fbcdn.net</domain>
+    <ip>31.13.65.7</ip>
   </UID-227>
   <UID-228>
-    <domain>fbcdn-creative-a.akamaihd.net</domain>
-    <ip>123.215.198.8</ip>
+    <domain>scontent-b.xx.fbcdn.net</domain>
+    <ip>31.13.70.56</ip>
   </UID-228>
   <UID-229>
-    <domain>fbcdn-creative-a.akamaihd.net</domain>
-    <ip>23.76.204.155</ip>
+    <domain>scontent-b.xx.fbcdn.net</domain>
+    <ip>31.13.66.21</ip>
   </UID-229>
   <UID-230>
-    <domain>fbcdn-creative-a.akamaihd.net</domain>
-    <ip>95.100.255.153</ip>
+    <domain>scontent-b.xx.fbcdn.net</domain>
+    <ip>31.13.75.23</ip>
   </UID-230>
   <UID-231>
-    <domain>fbcdn-creative-a.akamaihd.net</domain>
-    <ip>203.116.74.226</ip>
+    <domain>upload.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-231>
   <UID-232>
-    <domain>fbcdn-creative-a.akamaihd.net</domain>
-    <ip>123.215.198.9</ip>
+    <domain>upload.facebook.com</domain>
+    <ip>31.13.87.16</ip>
   </UID-232>
   <UID-233>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.20</ip>
+    <domain>upload.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-233>
   <UID-234>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>87.245.200.26</ip>
+    <domain>upload.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-234>
   <UID-235>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.77</ip>
+    <domain>upload.facebook.com</domain>
+    <ip>173.252.110.27</ip>
   </UID-235>
   <UID-236>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>124.155.222.16</ip>
+    <domain>developers.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-236>
   <UID-237>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.94</ip>
+    <domain>developers.facebook.com</domain>
+    <ip>31.13.79.144</ip>
   </UID-237>
   <UID-238>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.52</ip>
+    <domain>developers.facebook.com</domain>
+    <ip>31.13.79.128</ip>
   </UID-238>
   <UID-239>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>23.212.109.16</ip>
+    <domain>developers.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-239>
   <UID-240>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>87.245.200.33</ip>
+    <domain>developers.facebook.com</domain>
+    <ip>31.13.87.16</ip>
   </UID-240>
   <UID-241>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.15</ip>
+    <domain>bigzipfiles.facebook.com</domain>
+    <ip>173.252.103.13</ip>
   </UID-241>
   <UID-242>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>23.14.92.50</ip>
+    <domain>bigzipfiles.facebook.com</domain>
+    <ip>173.252.103.9</ip>
   </UID-242>
   <UID-243>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>87.245.200.24</ip>
+    <domain>bigzipfiles.facebook.com</domain>
+    <ip>69.171.235.22</ip>
   </UID-243>
   <UID-244>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.92</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>210.149.135.100</ip>
   </UID-244>
   <UID-245>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>165.254.156.90</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>210.149.135.92</ip>
   </UID-245>
   <UID-246>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>208.31.254.25</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>123.215.198.8</ip>
   </UID-246>
   <UID-247>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>208.31.254.34</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>210.149.135.55</ip>
   </UID-247>
   <UID-248>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>210.149.135.100</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>96.17.70.232</ip>
   </UID-248>
   <UID-249>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>165.254.156.57</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>96.7.54.81</ip>
   </UID-249>
   <UID-250>
-    <domain>fbcdn-profile-a.akamaihd.net</domain>
-    <ip>23.212.109.32</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>96.7.54.67</ip>
   </UID-250>
   <UID-251>
-    <domain>pixel.facebook.com</domain>
-    <ip>31.13.79.128</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>123.215.198.9</ip>
   </UID-251>
   <UID-252>
-    <domain>pixel.facebook.com</domain>
-    <ip>31.13.90.33</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>210.149.135.30</ip>
   </UID-252>
   <UID-253>
-    <domain>pixel.facebook.com</domain>
-    <ip>173.252.110.27</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>96.17.70.134</ip>
   </UID-253>
   <UID-254>
-    <domain>pixel.facebook.com</domain>
-    <ip>69.171.255.11</ip>
+    <domain>fbstatic-a.akamaihd.net</domain>
+    <ip>95.100.248.114</ip>
   </UID-254>
   <UID-255>
-    <domain>pixel.facebook.com</domain>
-    <ip>31.13.79.144</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>62.24.131.183</ip>
   </UID-255>
   <UID-256>
-    <domain>1-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>210.61.248.171</ip>
   </UID-256>
   <UID-257>
-    <domain>1-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>95.100.255.154</ip>
   </UID-257>
   <UID-258>
-    <domain>2-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>96.7.54.41</ip>
   </UID-258>
   <UID-259>
-    <domain>2-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>123.215.198.11</ip>
   </UID-259>
   <UID-260>
-    <domain>3-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>95.100.248.89</ip>
   </UID-260>
   <UID-261>
-    <domain>3-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>210.61.248.168</ip>
   </UID-261>
   <UID-262>
-    <domain>4-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>95.100.255.155</ip>
   </UID-262>
   <UID-263>
-    <domain>4-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>202.148.200.138</ip>
   </UID-263>
   <UID-264>
-    <domain>5-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-creative-a.akamaihd.net</domain>
+    <ip>96.17.70.135</ip>
   </UID-264>
   <UID-265>
-    <domain>5-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>61.220.62.217</ip>
   </UID-265>
   <UID-266>
-    <domain>6-act.channel.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>210.149.135.53</ip>
   </UID-266>
   <UID-267>
-    <domain>6-act.channel.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>23.14.92.25</ip>
   </UID-267>
   <UID-268>
-    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>95.100.255.145</ip>
   </UID-268>
   <UID-269>
-    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>184.51.15.76</ip>
   </UID-269>
   <UID-270>
-    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>173.252.113.2</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>203.69.81.96</ip>
   </UID-270>
   <UID-271>
-    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
-    <ip>69.171.248.18</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>210.149.135.87</ip>
   </UID-271>
   <UID-272>
-    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>210.149.135.95</ip>
   </UID-272>
   <UID-273>
-    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>184.51.15.111</ip>
   </UID-273>
   <UID-274>
-    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>23.62.109.216</ip>
   </UID-274>
   <UID-275>
-    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>72.246.190.150</ip>
   </UID-275>
   <UID-276>
-    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
-    <ip>173.252.113.2</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>210.149.135.79</ip>
   </UID-276>
   <UID-277>
-    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
-    <ip>69.171.235.19</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>203.69.81.43</ip>
   </UID-277>
   <UID-278>
-    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>210.149.135.55</ip>
   </UID-278>
   <UID-279>
-    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>87.245.200.42</ip>
   </UID-279>
   <UID-280>
-    <domain>beta-chat-01-05-ash3.facebook.com</domain>
-    <ip>69.171.246.7</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>23.14.92.49</ip>
   </UID-280>
   <UID-281>
-    <domain>beta-chat-01-05-ash3.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>23.62.109.169</ip>
   </UID-281>
   <UID-282>
-    <domain>beta-chat-01-05-ash3.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>87.245.200.9</ip>
   </UID-282>
   <UID-283>
-    <domain>origincache-ai-01-05-ash3.fbcdn.net</domain>
-    <ip>69.171.239.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>184.51.15.109</ip>
   </UID-283>
   <UID-284>
-    <domain>origincache-ai-01-05-ash3.fbcdn.net</domain>
-    <ip>69.171.255.12</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>23.215.60.243</ip>
   </UID-284>
   <UID-285>
-    <domain>static.thefacebook.com</domain>
-    <ip>192.26.92.30</ip>
+    <domain>fbcdn-profile-a.akamaihd.net</domain>
+    <ip>165.254.156.72</ip>
   </UID-285>
   <UID-286>
-    <domain>static.thefacebook.com</domain>
-    <ip>192.33.14.30</ip>
+    <domain>pixel.facebook.com</domain>
+    <ip>173.252.74.22</ip>
   </UID-286>
   <UID-287>
-    <domain>static.thefacebook.com</domain>
-    <ip>192.31.80.30</ip>
+    <domain>pixel.facebook.com</domain>
+    <ip>31.13.68.49</ip>
   </UID-287>
   <UID-288>
-    <domain>static.thefacebook.com</domain>
-    <ip>192.48.79.30</ip>
+    <domain>pixel.facebook.com</domain>
+    <ip>31.13.87.16</ip>
   </UID-288>
   <UID-289>
-    <domain>static.thefacebook.com</domain>
-    <ip>192.52.178.30</ip>
+    <domain>pixel.facebook.com</domain>
+    <ip>173.252.101.48</ip>
   </UID-289>
   <UID-290>
-    <domain>inyour-slb-01-05-ash3.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>pixel.facebook.com</domain>
+    <ip>31.13.70.65</ip>
   </UID-290>
   <UID-291>
-    <domain>inyour-slb-01-05-ash3.facebook.com</domain>
+    <domain>act.channel.facebook.com</domain>
     <ip>69.171.255.12</ip>
   </UID-291>
   <UID-292>
-    <domain>channel-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.246.16</ip>
+    <domain>act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
   </UID-292>
   <UID-293>
-    <domain>channel-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>0-act.channel.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-293>
   <UID-294>
-    <domain>channel-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.255.12</ip>
+    <domain>0-act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
   </UID-294>
   <UID-295>
-    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.246.17</ip>
+    <domain>2-act.channel.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-295>
   <UID-296>
-    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
+    <domain>2-act.channel.facebook.com</domain>
     <ip>69.171.239.12</ip>
   </UID-296>
   <UID-297>
-    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
+    <domain>3-act.channel.facebook.com</domain>
     <ip>69.171.255.12</ip>
   </UID-297>
   <UID-298>
-    <domain>channel-testing-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.246.18</ip>
+    <domain>3-act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
   </UID-298>
   <UID-299>
-    <domain>channel-testing-ecmp-05-ash3.facebook.com</domain>
-    <ip>69.171.239.12</ip>
+    <domain>4-act.channel.facebook.com</domain>
+    <ip>69.171.255.12</ip>
   </UID-299>
   <UID-300>
+    <domain>4-act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-300>
+  <UID-301>
+    <domain>5-act.channel.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-301>
+  <UID-302>
+    <domain>5-act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-302>
+  <UID-303>
+    <domain>6-act.channel.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-303>
+  <UID-304>
+    <domain>6-act.channel.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-304>
+  <UID-305>
+    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>173.252.113.2</ip>
+  </UID-305>
+  <UID-306>
+    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-306>
+  <UID-307>
+    <domain>0-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-307>
+  <UID-308>
+    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
+    <ip>69.171.248.18</ip>
+  </UID-308>
+  <UID-309>
+    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-309>
+  <UID-310>
+    <domain>3-channel-proxy-06-frc1.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-310>
+  <UID-311>
+    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>173.252.113.2</ip>
+  </UID-311>
+  <UID-312>
+    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-312>
+  <UID-313>
+    <domain>3-channel-proxy-07-ash2.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-313>
+  <UID-314>
+    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
+    <ip>69.171.235.19</ip>
+  </UID-314>
+  <UID-315>
+    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-315>
+  <UID-316>
+    <domain>4-channel-proxy-13-prn1.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-316>
+  <UID-317>
+    <domain>beta-chat-01-05-ash3.facebook.com</domain>
+    <ip>69.171.246.7</ip>
+  </UID-317>
+  <UID-318>
+    <domain>beta-chat-01-05-ash3.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-318>
+  <UID-319>
+    <domain>beta-chat-01-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-319>
+  <UID-320>
+    <domain>origincache-ai-01-05-ash3.fbcdn.net</domain>
+    <ip>69.171.255.12</ip>
+  </UID-320>
+  <UID-321>
+    <domain>origincache-ai-01-05-ash3.fbcdn.net</domain>
+    <ip>69.171.239.12</ip>
+  </UID-321>
+  <UID-322>
+    <domain>static.thefacebook.com</domain>
+    <ip>192.26.92.30</ip>
+  </UID-322>
+  <UID-323>
+    <domain>static.thefacebook.com</domain>
+    <ip>192.31.80.30</ip>
+  </UID-323>
+  <UID-324>
+    <domain>static.thefacebook.com</domain>
+    <ip>192.55.83.30</ip>
+  </UID-324>
+  <UID-325>
+    <domain>static.thefacebook.com</domain>
+    <ip>192.35.51.30</ip>
+  </UID-325>
+  <UID-326>
+    <domain>static.thefacebook.com</domain>
+    <ip>192.54.112.30</ip>
+  </UID-326>
+  <UID-327>
+    <domain>inyour-slb-01-05-ash3.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-327>
+  <UID-328>
+    <domain>inyour-slb-01-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-328>
+  <UID-329>
+    <domain>origincache-starfacebook-ai-01-05-ash3.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-329>
+  <UID-330>
+    <domain>origincache-starfacebook-ai-01-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-330>
+  <UID-331>
+    <domain>channel-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-331>
+  <UID-332>
+    <domain>channel-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.246.16</ip>
+  </UID-332>
+  <UID-333>
+    <domain>channel-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-333>
+  <UID-334>
+    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.255.12</ip>
+  </UID-334>
+  <UID-335>
+    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.246.17</ip>
+  </UID-335>
+  <UID-336>
+    <domain>channel-staging-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-336>
+  <UID-337>
     <domain>channel-testing-ecmp-05-ash3.facebook.com</domain>
     <ip>69.171.255.12</ip>
-  </UID-300>
+  </UID-337>
+  <UID-338>
+    <domain>channel-testing-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.246.18</ip>
+  </UID-338>
+  <UID-339>
+    <domain>channel-testing-ecmp-05-ash3.facebook.com</domain>
+    <ip>69.171.239.12</ip>
+  </UID-339>
 </Facebook>

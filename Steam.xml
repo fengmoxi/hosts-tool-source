@@ -2,154 +2,170 @@
 <Steam>
   <UID-1>
     <domain>cdn.steampowered.com</domain>
-    <ip>63.234.226.35</ip>
+    <ip>173.223.227.17</ip>
   </UID-1>
   <UID-2>
     <domain>cdn.steampowered.com</domain>
-    <ip>125.56.214.58</ip>
+    <ip>23.76.204.97</ip>
   </UID-2>
   <UID-3>
     <domain>cdn.steampowered.com</domain>
-    <ip>5.178.43.16</ip>
+    <ip>23.67.247.73</ip>
   </UID-3>
   <UID-4>
     <domain>cdn.steampowered.com</domain>
-    <ip>203.69.141.88</ip>
+    <ip>23.14.93.71</ip>
   </UID-4>
   <UID-5>
     <domain>cdn.steampowered.com</domain>
-    <ip>184.51.7.14</ip>
+    <ip>62.24.131.80</ip>
   </UID-5>
   <UID-6>
     <domain>cdn.steampowered.com</domain>
-    <ip>5.178.45.36</ip>
+    <ip>87.251.132.230</ip>
   </UID-6>
   <UID-7>
     <domain>cdn.steampowered.com</domain>
-    <ip>63.219.18.167</ip>
+    <ip>87.245.202.62</ip>
   </UID-7>
   <UID-8>
     <domain>cdn.steampowered.com</domain>
-    <ip>62.24.131.56</ip>
+    <ip>92.122.122.157</ip>
   </UID-8>
   <UID-9>
     <domain>cdn.steampowered.com</domain>
-    <ip>212.30.134.161</ip>
+    <ip>87.251.132.239</ip>
   </UID-9>
   <UID-10>
-    <domain>cdn.steamcommunity.com</domain>
-    <ip>63.234.226.35</ip>
+    <domain>cdn.steampowered.com</domain>
+    <ip>23.67.247.218</ip>
   </UID-10>
   <UID-11>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>23.14.93.71</ip>
+    <ip>173.223.227.17</ip>
   </UID-11>
   <UID-12>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>125.56.214.58</ip>
+    <ip>23.76.204.97</ip>
   </UID-12>
   <UID-13>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>61.111.58.5</ip>
+    <ip>23.67.247.73</ip>
   </UID-13>
   <UID-14>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>5.178.43.16</ip>
+    <ip>62.24.131.80</ip>
   </UID-14>
   <UID-15>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>203.69.141.88</ip>
+    <ip>87.251.132.230</ip>
   </UID-15>
   <UID-16>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>63.219.18.167</ip>
+    <ip>92.122.122.157</ip>
   </UID-16>
   <UID-17>
     <domain>cdn.steamcommunity.com</domain>
-    <ip>124.155.222.21</ip>
+    <ip>87.251.132.239</ip>
   </UID-17>
   <UID-18>
-    <domain>cdn.store.steampowered.com</domain>
-    <ip>63.234.226.35</ip>
+    <domain>cdn.steamcommunity.com</domain>
+    <ip>62.24.131.56</ip>
   </UID-18>
   <UID-19>
-    <domain>cdn.store.steampowered.com</domain>
-    <ip>23.14.93.71</ip>
+    <domain>cdn.steamcommunity.com</domain>
+    <ip>96.7.54.182</ip>
   </UID-19>
   <UID-20>
-    <domain>cdn.store.steampowered.com</domain>
-    <ip>125.56.214.58</ip>
+    <domain>cdn.steamcommunity.com</domain>
+    <ip>23.67.247.64</ip>
   </UID-20>
   <UID-21>
     <domain>cdn.store.steampowered.com</domain>
-    <ip>5.178.43.16</ip>
+    <ip>203.69.81.89</ip>
   </UID-21>
   <UID-22>
     <domain>cdn.store.steampowered.com</domain>
-    <ip>203.69.141.88</ip>
+    <ip>180.182.54.109</ip>
   </UID-22>
   <UID-23>
     <domain>cdn.store.steampowered.com</domain>
-    <ip>184.51.7.14</ip>
+    <ip>173.223.227.17</ip>
   </UID-23>
   <UID-24>
     <domain>cdn.store.steampowered.com</domain>
-    <ip>124.155.222.21</ip>
+    <ip>23.76.204.97</ip>
   </UID-24>
   <UID-25>
     <domain>cdn.store.steampowered.com</domain>
-    <ip>62.24.131.56</ip>
+    <ip>23.14.93.71</ip>
   </UID-25>
   <UID-26>
-    <domain>cdn2.store.steampowered.com</domain>
-    <ip>205.185.216.42</ip>
+    <domain>cdn.store.steampowered.com</domain>
+    <ip>62.24.131.80</ip>
   </UID-26>
   <UID-27>
-    <domain>cdn2.store.steampowered.com</domain>
-    <ip>23.74.25.65</ip>
+    <domain>cdn.store.steampowered.com</domain>
+    <ip>87.251.132.230</ip>
   </UID-27>
   <UID-28>
-    <domain>cdn2.store.steampowered.com</domain>
-    <ip>23.61.199.67</ip>
+    <domain>cdn.store.steampowered.com</domain>
+    <ip>87.245.202.62</ip>
   </UID-28>
   <UID-29>
-    <domain>media.steampowered.com</domain>
-    <ip>63.234.226.35</ip>
+    <domain>cdn.store.steampowered.com</domain>
+    <ip>92.122.122.157</ip>
   </UID-29>
   <UID-30>
-    <domain>media.steampowered.com</domain>
-    <ip>23.14.93.71</ip>
+    <domain>cdn2.store.steampowered.com</domain>
+    <ip>23.61.199.67</ip>
   </UID-30>
   <UID-31>
-    <domain>media.steampowered.com</domain>
-    <ip>125.56.214.58</ip>
+    <domain>cdn2.store.steampowered.com</domain>
+    <ip>2.16.130.64</ip>
   </UID-31>
   <UID-32>
-    <domain>media.steampowered.com</domain>
-    <ip>61.111.58.5</ip>
+    <domain>cdn2.store.steampowered.com</domain>
+    <ip>205.185.216.42</ip>
   </UID-32>
   <UID-33>
     <domain>media.steampowered.com</domain>
-    <ip>5.178.43.16</ip>
+    <ip>203.69.81.89</ip>
   </UID-33>
   <UID-34>
     <domain>media.steampowered.com</domain>
-    <ip>210.201.31.81</ip>
+    <ip>180.182.54.109</ip>
   </UID-34>
   <UID-35>
     <domain>media.steampowered.com</domain>
-    <ip>124.155.222.21</ip>
+    <ip>173.223.227.17</ip>
   </UID-35>
   <UID-36>
     <domain>media.steampowered.com</domain>
-    <ip>203.133.9.28</ip>
+    <ip>23.76.204.97</ip>
   </UID-36>
   <UID-37>
     <domain>media.steampowered.com</domain>
-    <ip>96.6.113.42</ip>
+    <ip>23.67.247.73</ip>
   </UID-37>
   <UID-38>
     <domain>media.steampowered.com</domain>
-    <ip>139.175.236.220</ip>
+    <ip>23.14.93.71</ip>
   </UID-38>
+  <UID-39>
+    <domain>media.steampowered.com</domain>
+    <ip>62.24.131.80</ip>
+  </UID-39>
+  <UID-40>
+    <domain>media.steampowered.com</domain>
+    <ip>87.251.132.230</ip>
+  </UID-40>
+  <UID-41>
+    <domain>media.steampowered.com</domain>
+    <ip>87.251.132.239</ip>
+  </UID-41>
+  <UID-42>
+    <domain>media.steampowered.com</domain>
+    <ip>62.24.131.56</ip>
+  </UID-42>
 </Steam>
